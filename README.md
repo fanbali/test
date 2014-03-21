@@ -11,4 +11,4 @@
 <br /><br />*/
 <br />-------------------------------------------------------------------------------------
 
-<br /><br />how to learn in github, start from HERE !
+<br />how to learn in github.
